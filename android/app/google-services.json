@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "970115004412",
+    "project_id": "topic-talk-5d046",
+    "storage_bucket": "topic-talk-5d046.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970115004412:android:f5ef68d4de3d4fc672a479",
+        "android_client_info": {
+          "package_name": "com.example.topic_talk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970115004412-gen6at645c2vq4sgg3m5m96rdaesj90k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.topic_talk",
+            "certificate_hash": "2b4704ade38342504cc5dbe997d57e1e32ea42f4"
+          }
+        },
+        {
+          "client_id": "970115004412-7v3ljva86jhn3tgm80kaounfonrfpfng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGKKIEuYfpv9ysB01XBqf5Shb4hAjeTWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970115004412-7v3ljva86jhn3tgm80kaounfonrfpfng.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "970115004412-u4ut4puer862h7qjcs9ec2sea7e2l62i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.topicTalk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
